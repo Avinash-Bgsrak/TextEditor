@@ -1,7 +1,7 @@
 <pre>
 About Text Editor
 =================
-It is a simple text editor where you can write some text.
+This is a simple text editor where you can write some text.
 Functionality in these text editor :
 1.CUT
 2.COPY
